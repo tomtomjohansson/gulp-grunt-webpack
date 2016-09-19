@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,EAAG,CACF,KAAK,CCHI,IAAO",
+"sources": ["../../dev/scss/style.scss","../../dev/scss/_variables.scss"],
+"names": [],
+"file": "main.min.css"
+}
